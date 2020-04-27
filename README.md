@@ -1,10 +1,8 @@
 1. Make sure you can run scripts on your powershell
 
-          ***easy mode****
- Set-ExecutionPolicy unrestricted (kind of unsafe)
+*** Set-ExecutionPolicy unrestricted (kind of unsafe) ***
 
-	*** More secure ***
- powershell -ExecutionPolicy ByPass -File GlobalProtect-Start-Stop.ps1
+*** powershell -ExecutionPolicy ByPass -File GlobalProtect-Start-Stop.ps1 (more secure) ***
 
 2. Right click script, select run with powershell
 
