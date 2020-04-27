@@ -1,3 +1,5 @@
+I found it hard to believe that you could not easily stop the GlobalProtect process, so I created this quick tool to start and stop it, so it doesn't eat up resources. 
+
 1. Make sure you can run scripts on your powershell
 
 *** Set-ExecutionPolicy unrestricted (kind of unsafe) ***
